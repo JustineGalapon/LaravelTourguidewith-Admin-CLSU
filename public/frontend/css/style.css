@@ -1,0 +1,231 @@
+@import url('fonts.googleapis.com/css?family=Lato:300:400');
+@import url('https://fonts.googleapis.com/css?family=Lalezar&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Akronim|Anton|Indie+Flower|Merriweather|Modak');
+
+
+.login-register-image{
+    background-image: url('../img/photo-1488342994276-7c3bc0742042.jpg');
+    height: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+/* start navbar */
+#nav-bar .navbar{
+  background: linear-gradient(to right top, #00112a, #0a0f2a, #130c29, #1b0826, #210523);
+}
+#nav-bar .navbar .navbar-brand{
+  color: #fff;
+  padding-left: 16px;
+}
+#nav-bar .navbar-brand{
+  font-family: 'Akronim';
+  font-weight: 600;
+  font-size: 45px;
+}
+.navbar ul li a{
+  font-size: 18px;
+  color: white! important;
+  font-weight: bold;
+}
+.navbar ul li a:hover{
+  color: grey! important;
+}
+.navbar ul li {
+  padding: 0px 10px;
+}
+#nav-bar .btn-info{
+  background: gold;
+  color:black;
+  border: none;
+}
+#nav-bar .btn-info:hover{
+  background: white;
+  color:#000;
+}
+
+/* End navbar */
+
+
+.about{
+  font-size: 65px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+/*start banner Section*/
+#banner{
+	background-image: url('../img/39b5165c510284ea96c6c61ff832e9f9.jpg');
+	padding-top: 3%;
+  color:#fff;
+  height: 500px;
+  background-attachment: fixed;
+  background-size: cover;
+  opacity: .90;
+}
+.promo-title{
+	font-size: 40px;
+	font-weight: 600;
+	margin-top: 100px;
+
+}
+.play-button{
+	width: 45px;
+	margin: 20px;
+}
+#banner a{
+	color: #fff;
+	text-decoration: none;
+}
+.wave{
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+
+/*end banner Section*/
+
+
+/* start plan section */
+.plan .fa{
+  color: whitesmoke;
+  font-size: 65px;
+  padding: 15px 0px;
+}
+.plan{
+  background-image: url('../img/50-Beautiful-and-Minimalist-Presentation-Backgrounds-01.jpg');
+  color: whitesmoke;
+  height: 100%;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 60px;
+  padding-bottom: 60px;
+ 
+}
+
+.plan p{
+  text-align: center;
+  padding: 7px 35px;
+}
+/* end plan section */
+
+
+
+/* start editing view more button */
+.view-more{
+  background-color: rgb(47, 47, 68);
+  color: whitesmoke;
+  padding: 9px 16px;
+  font-weight: 600;
+}
+
+.view-more:hover{
+  color: grey;
+}
+/* end editing view more button */
+
+
+/*social-media section*/
+#social-media{
+	background: #d5d5d5;
+	padding: 100px 0px;
+}
+#social-media p{
+	font-weight: 600;
+	font-size: 35px;
+	margin-bottom: 30px;
+}
+.social-icon img{
+	width: 80px;
+	transition: 1s;
+	padding: 10px;
+}
+.social-icon img:hover{
+	transform: translateY(-10px);
+}
+/*social-media section*/
+
+
+
+
+
+
+
+/* search section */
+
+.search-section{
+  padding: 80px 20px;
+  background-image: url('../img/photo-1488342994276-7c3bc0742042.jpg');
+  color: whitesmoke;
+  height: 100%;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/* end search section */
+
+.all-places{
+  margin-top: 140px;
+}
+
+.district-show{
+  background-image: url('../img/blue-sky-clear-sky-cold-fog-346529-1024x683.jpg');
+  color: whitesmoke;
+  height: 100%;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.district-show .btn-district{
+  background-color: whitesmoke;
+  color: #10101e;
+  padding: 7px 16px;
+  border-radius: 30px;
+}
+
+
+
+/* Start footer */
+#footer{
+  padding-top: 75px; 
+  background: linear-gradient(to right top, #09030f, #0c0613, #0e0a17, #0f0d1b, #10101e)!important;
+  
+  }
+  #footer .head{
+    padding-bottom: 40px;
+    color: #fff;
+    font-weight: 600;
+    font-family: 'Lalezar', cursive;
+  
+  }
+  #footer p{
+    color: #fff;
+  }
+  
+  #footer .row .col-md-3 .img-row{
+      padding: 25px 0px;
+    }
+
+    #footer a{
+      text-decoration: none;
+      color: whitesmoke;
+      padding-left: 7px;
+    }
+
+
+/* End footer */
+
+
+
+
+
+
+
